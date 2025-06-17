@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    background-color: #dc9999; /* warm sand */
+    padding: 20px;
+    margin-top: 10px;
+    font-size: 36px;
+    color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #fffaf5; /* light neutral */
+    color: #333;
+}
+
+#aboutus, #theproject, #mission, #vision {
+    text-align: center;
+    background-color: #fce8d5; /* sand beige */
+    padding: 30px;
+    margin: 20px auto;
+    width: 85%;
+    border-radius: 15px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}

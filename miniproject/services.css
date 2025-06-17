@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    background-color: #dc9999; /* sand beige */
+    padding: 20px;
+    margin-top: 10px;
+    font-size: 36px;
+    color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h3 {
+    text-align: center;
+    background-color: #dc9999; /* sand beige */
+    padding: 20px;
+    margin-top: 10px;
+    color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.one {
+    text-align: center;
+    background-color: #f7e3c8; /* light beige block */
+    padding: 30px;
+    margin-top: 20px;
+    font-size: 17px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}

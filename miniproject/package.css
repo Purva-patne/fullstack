@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+    background-color: #dc9999; /* sand beige */
+    padding: 20px;
+    margin-top: 10px;
+    font-size: 36px;
+    color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.p {
+    display: inline-block;
+    background-color: #f2b0b0; /* sand beige */
+    height: 470px;
+    width: 370px;
+    margin-left: 32px;
+    margin-bottom: 32px;
+} 
+h3, h4 {
+    font-size: 15px;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+#abroad {
+    text-align: center;
+    background-color: #f6dbc1; /* light beige */
+    padding: 20px;
+    margin-top: 10px;
+    color: #5a3e36; /* warm brown text */
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#india {
+    text-align: center;
+    background-color: #f6dbc1; /* light beige */
+    padding: 20px;
+    margin-top: 10px;
+    color: #5a3e36; /* warm brown text */
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    text-align: center;
+    background-color: #dc9999; /* sand beige */
+    padding: 20px;
+    margin-top: 10px;
+    font-size: 36px;
+    color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
